@@ -1,0 +1,10 @@
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/MembrosApplication.java
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/config/CorsConfig.java
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/controller/MemberController.java
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/dto/MemberDTO.java
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/exception/BusinessException.java
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/exception/GlobalExceptionHandler.java
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/model/Member.java
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/repository/MemberRepository.java
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/service/CpfValidator.java
+/home/gabriel/Documents/gestao-membros/gestao-membros/backend/src/main/java/com/membros/api/service/MemberService.java

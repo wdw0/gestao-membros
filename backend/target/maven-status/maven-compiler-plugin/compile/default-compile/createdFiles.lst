@@ -1,0 +1,12 @@
+com/membros/api/dto/MemberDTO.class
+com/membros/api/dto/MemberDTO$Request.class
+com/membros/api/dto/MemberDTO$Response.class
+com/membros/api/exception/BusinessException.class
+com/membros/api/service/MemberService.class
+com/membros/api/model/Member.class
+com/membros/api/controller/MemberController.class
+com/membros/api/repository/MemberRepository.class
+com/membros/api/config/CorsConfig.class
+com/membros/api/exception/GlobalExceptionHandler.class
+com/membros/api/service/CpfValidator.class
+com/membros/api/MembrosApplication.class
